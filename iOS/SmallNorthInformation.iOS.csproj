@@ -24,8 +24,9 @@
     <MtouchUseRefCounting>true</MtouchUseRefCounting>
     <MtouchUseSGen>true</MtouchUseSGen>
     <MtouchDebug>true</MtouchDebug>
-    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignKey>iPhone Developer: 漢祥 蘇 (5LAT96AENS)</CodesignKey>
     <MtouchFastDev>true</MtouchFastDev>
+    <CodesignProvision>d4e1ee84-e00a-4eec-88a3-d5d734d98044</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>full</DebugType>

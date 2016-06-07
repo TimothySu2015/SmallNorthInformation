@@ -1,0 +1,5 @@
+/Users/hanxiangsu/Projects/SmallNorthInformation/SmallNorthInformation/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/hanxiangsu/Projects/SmallNorthInformation/SmallNorthInformation/bin/Debug/SmallNorthInformation.dll.mdb
+/Users/hanxiangsu/Projects/SmallNorthInformation/SmallNorthInformation/bin/Debug/SmallNorthInformation.dll
+/Users/hanxiangsu/Projects/SmallNorthInformation/SmallNorthInformation/obj/Debug/SmallNorthInformation.dll
+/Users/hanxiangsu/Projects/SmallNorthInformation/SmallNorthInformation/obj/Debug/SmallNorthInformation.dll.mdb

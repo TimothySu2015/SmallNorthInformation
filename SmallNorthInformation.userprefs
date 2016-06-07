@@ -1,6 +1,12 @@
 ﻿<Properties StartupItem="iOS/SmallNorthInformation.iOS.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmallNorthInformation/Store.cs">
+    <Files>
+      <File FileName="SmallNorthInformation/Store.cs" Line="26" Column="123" />
+      <File FileName="SmallNorthInformation/StoreDetail.cs" Line="8" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
